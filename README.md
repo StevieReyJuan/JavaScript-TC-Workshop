@@ -10,7 +10,8 @@ Project Ideas - Dashboard, CBE Endpoint in Serveless functions, Custom Coded Act
 4. Project - Custom Coded Action with Hub DB
 5. Regular Expressions 
 6. Asynchronus Programming ☯️
-7. The DOM 📄
-8. Handling Events 🎪
-9. Project - Serverless functions/custom coded actions
-10. Project - External HTTP Forms 📡
+7. Chrome Devtools/Debugging
+8. The DOM 📄
+9. Handling Events 🎪
+10. Project - Serverless functions/custom coded actions
+11. Project - External HTTP Forms 📡

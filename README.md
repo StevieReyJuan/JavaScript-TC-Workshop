@@ -2,7 +2,7 @@
 
 ## Workshop Topics
 
-Project Ideas - Dashboard, CBE Endpoint in Serveless functions, Custom Coded Action, 
+Project Ideas - 
 
 1. Setting Up a Local Dev Environment - VS Code
 2. Values, Types, and Operators OH MY 😳

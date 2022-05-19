@@ -2,13 +2,13 @@
 
 ## Workshop Topics
 
-Project Ideas - 
+Project Ideas -
 
 1. Setting Up a Local Dev Environment - VS Code
 2. Values, Types, and Operators OH MY 😳
 3. Data Structures: Objects & Arrays 🧮
 4. Project - Custom Coded Action with Hub DB
-5. Regular Expressions 
+5. Regular Expressions
 6. Asynchronus Programming ☯️
 7. Chrome Devtools/Debugging
 8. The DOM 📄

@@ -43,5 +43,10 @@ class Rectangle {
 
 ### Autocomplete
 
-When VSCode knows your programming language, it can anticipate what you're going to type next!
-![Gif of VSCode Autocomplete](./Autocomplete.mov)
+When VSCode knows your programming language, it can anticipate what you're going to type next!  
+
+![Gif of VSCode Autocomplete]()
+
+### Debugging
+
+Everyone makes mistakes 🤷  but how do know when we do And how do we fix them?
